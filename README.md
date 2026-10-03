@@ -1,4 +1,4 @@
-**CommonGround**
+***CommonGround***
 
 A conversational group decision assistant built as a Python and LangChain learning project.
 CommonGround explores how an AI agent can help people choose between shared options by collecting preferences, checking essential requirements, and explaining trade-offs. It is designed for decisions such as choosing an activity, meal, movie, or team project.
